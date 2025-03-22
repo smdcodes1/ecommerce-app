@@ -1,1 +1,1 @@
-# ecommerce-app
+A simple e-commerce app with a clean UI, featuring product listings, cart management, and checkout functionality. Built with efficient state management for a smooth shopping experience. Also please switch from main branch to master branch to view my flutter codes!!
